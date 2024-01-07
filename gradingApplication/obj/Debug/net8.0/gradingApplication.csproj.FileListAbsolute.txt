@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.sourcelink.json
+/home/alvin/repos/CsharpProjects/gradingApplication/bin/Debug/net8.0/gradingApplication
+/home/alvin/repos/CsharpProjects/gradingApplication/bin/Debug/net8.0/gradingApplication.deps.json
+/home/alvin/repos/CsharpProjects/gradingApplication/bin/Debug/net8.0/gradingApplication.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/gradingApplication/bin/Debug/net8.0/gradingApplication.dll
+/home/alvin/repos/CsharpProjects/gradingApplication/bin/Debug/net8.0/gradingApplication.pdb
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.dll
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/refint/gradingApplication.dll
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.pdb
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/gradingApplication.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/gradingApplication/obj/Debug/net8.0/ref/gradingApplication.dll
