@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/readableCode/bin/Debug/net8.0/readableCode
+/home/alvin/repos/CsharpProjects/readableCode/bin/Debug/net8.0/readableCode.deps.json
+/home/alvin/repos/CsharpProjects/readableCode/bin/Debug/net8.0/readableCode.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/readableCode/bin/Debug/net8.0/readableCode.dll
+/home/alvin/repos/CsharpProjects/readableCode/bin/Debug/net8.0/readableCode.pdb
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.sourcelink.json
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.dll
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/refint/readableCode.dll
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.pdb
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/readableCode.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/readableCode/obj/Debug/net8.0/ref/readableCode.dll
