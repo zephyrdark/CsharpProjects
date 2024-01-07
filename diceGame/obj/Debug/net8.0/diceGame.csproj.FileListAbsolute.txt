@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/diceGame/bin/Debug/net8.0/diceGame
+/home/alvin/repos/CsharpProjects/diceGame/bin/Debug/net8.0/diceGame.deps.json
+/home/alvin/repos/CsharpProjects/diceGame/bin/Debug/net8.0/diceGame.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/diceGame/bin/Debug/net8.0/diceGame.dll
+/home/alvin/repos/CsharpProjects/diceGame/bin/Debug/net8.0/diceGame.pdb
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.sourcelink.json
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.dll
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/refint/diceGame.dll
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.pdb
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/diceGame.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/diceGame/obj/Debug/net8.0/ref/diceGame.dll
