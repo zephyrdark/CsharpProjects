@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/arrays/bin/Debug/net8.0/arrays
+/home/alvin/repos/CsharpProjects/arrays/bin/Debug/net8.0/arrays.deps.json
+/home/alvin/repos/CsharpProjects/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/arrays/bin/Debug/net8.0/arrays.dll
+/home/alvin/repos/CsharpProjects/arrays/bin/Debug/net8.0/arrays.pdb
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.sourcelink.json
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.dll
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/refint/arrays.dll
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.pdb
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/arrays/obj/Debug/net8.0/ref/arrays.dll

@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/improveSubRenewals/bin/Debug/net8.0/improveSubRenewals
+/home/alvin/repos/CsharpProjects/improveSubRenewals/bin/Debug/net8.0/improveSubRenewals.deps.json
+/home/alvin/repos/CsharpProjects/improveSubRenewals/bin/Debug/net8.0/improveSubRenewals.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/improveSubRenewals/bin/Debug/net8.0/improveSubRenewals.dll
+/home/alvin/repos/CsharpProjects/improveSubRenewals/bin/Debug/net8.0/improveSubRenewals.pdb
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.sourcelink.json
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.dll
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/refint/improveSubRenewals.dll
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.pdb
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/improveSubRenewals.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/improveSubRenewals/obj/Debug/net8.0/ref/improveSubRenewals.dll
