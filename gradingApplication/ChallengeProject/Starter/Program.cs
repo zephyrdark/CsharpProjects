@@ -33,7 +33,7 @@ string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades
 Console.Clear();
-Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall\tGrade\tExtra Credit\n");
 
 /*
 The outer foreach loop is used to:
@@ -59,11 +59,19 @@ foreach (string name in studentNames)
     else if (currentStudent == "Logan")
         studentScores = loganScores;
 
-    int sumAssignmentScores = 0;
+    int sumStudentExamScores = 0;
+
+    decimal currentStudentExamScore = 0;
 
     decimal currentStudentGrade = 0;
 
     int gradedAssignments = 0;
+
+    int sumStudentExtraCreditScores = 0;
+
+    decimal avgStudentExtraCreditScores = 0;
+
+    decimal currentStudentExtraCreditPoints = 0;
 
     /* 
     the inner foreach loop sums assignment scores
@@ -74,13 +82,19 @@ foreach (string name in studentNames)
         gradedAssignments += 1;
 
         if (gradedAssignments <= examAssignments)
-            sumAssignmentScores += score;
-
+        {
+            sumStudentExamScores += score;
+        }
         else
-            sumAssignmentScores += score / 10;
+            sumStudentExtraCreditScores += score;
     }
+    currentStudentExamScore = (decimal)(sumStudentExamScores) / examAssignments;
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    avgStudentExtraCreditScores = (decimal)(sumStudentExtraCreditScores) / (studentScores.Length - examAssignments);
+
+    currentStudentExtraCreditPoints = ((decimal)(sumStudentExtraCreditScores) / 10) / examAssignments;
+    
+    currentStudentGrade = currentStudentExamScore + currentStudentExtraCreditPoints;
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -124,7 +138,7 @@ foreach (string name in studentNames)
     // Student         Grade
     // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{avgStudentExtraCreditScores} ({currentStudentExtraCreditPoints} pts)");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)
