@@ -1,0 +1,15 @@
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.AssemblyInfoInputs.cache
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.AssemblyInfo.cs
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.csproj.CoreCompileInputs.cache
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.sourcelink.json
+/home/alvin/repos/CsharpProjects/variableScope/bin/Debug/net8.0/variableScope
+/home/alvin/repos/CsharpProjects/variableScope/bin/Debug/net8.0/variableScope.deps.json
+/home/alvin/repos/CsharpProjects/variableScope/bin/Debug/net8.0/variableScope.runtimeconfig.json
+/home/alvin/repos/CsharpProjects/variableScope/bin/Debug/net8.0/variableScope.dll
+/home/alvin/repos/CsharpProjects/variableScope/bin/Debug/net8.0/variableScope.pdb
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.dll
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/refint/variableScope.dll
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.pdb
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/variableScope.genruntimeconfig.cache
+/home/alvin/repos/CsharpProjects/variableScope/obj/Debug/net8.0/ref/variableScope.dll
